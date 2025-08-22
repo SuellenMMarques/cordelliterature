@@ -66,7 +66,6 @@ section {
 }
 
 .text-parallax{
-    height: 100vh;
     background-attachment: fixed;
     background-position: center;
     background-repeat: no-repeat;
@@ -83,6 +82,14 @@ section {
 
 #parallax2{
     background-image: url(./assets/images/background002.jpg);  
+}
+
+#paragrafy-parallax2{
+    display: inline-block;
+    padding: 5px;
+    background-color: #bfa38a42;
+    color: #260B01;
+    text-shadow: 1px 0px 5px white;
 }
 
 
